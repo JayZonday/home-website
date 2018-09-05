@@ -57,7 +57,7 @@
   width: 400px;
   background-color: rgba(0,0,0,0.8);
   margin: 20px auto;
-  padding: 12px;
+  padding: 10px;
 }
 
 .navButton{
@@ -78,4 +78,43 @@
   background: green;
   color: white;
   width: 100px;
+}
+
+.about{
+  display: inline-flex;
+  padding: 20px;
+}
+
+#interests{
+  border: 2px solid white;
+  height: 140px;
+  width: 375px;
+  padding: 10px;
+  margin: 25px auto;
+  box-shadow: 0px 0px 20px 5px;
+  border-radius: 1pc;
+  overflow: scroll;
+  background: rgba(255,255,255,0.7)
+}
+#education{
+  border: 2px solid white;
+  height: 140px;
+  width: 375px;
+  padding: 10px;
+  margin: 25px auto;
+  box-shadow: 0px 0px 20px 5px;
+  border-radius: 1pc;
+  overflow: scroll;
+  background: rgba(255,255,255,0.7)
+}
+#experiences{
+  border: 2px solid white;
+  height: 140px;
+  width: 375px;
+  padding: 10px;
+  margin: 25px auto;
+  box-shadow: 0px 0px 20px 5px;
+  border-radius: 1pc;
+  overflow: scroll;
+  background: rgba(255,255,255,0.7)
 }

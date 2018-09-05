@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar.js'
+import Info from './Info.js'
 
 class App extends Component {
   render() {
@@ -14,11 +15,16 @@ class App extends Component {
           </div>
         </header>
 
-        <p id="mission"><h1 id="statement">The Mission</h1> An eager and highly motivated full-stack web developer looking to
+        <p id="mission">
+        <h1 id="statement">The Mission</h1>
+        An eager and highly motivated
+        full-stack web developer looking to
         apply my wide range of skills to create and build beautiful
         and intelligently designed programs that can help change
-        and shape the way we think about tomorrow.</p>
+        and shape the way we think about tomorrow.
+        </p>
         <Navbar/>
+        <Info />
       </div>
     );
   }
