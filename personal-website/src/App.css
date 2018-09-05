@@ -26,8 +26,8 @@
 }
 
 #logo-container{
-  background: lightgreen;
-  border: 2px solid white;
+  background: blue;
+  border: 2px solid skyblue;
   border-radius: 2pc;
   width: 275px;
   height: 140px;
@@ -55,27 +55,27 @@
   border-radius: 2pc;
   height: auto;
   width: 400px;
-  background-color: rgba(0,0,0,0.8);
+  background-image: url('connectwork.png');
   margin: 20px auto;
   padding: 10px;
 }
 
 .navButton{
-  border: 2px solid green;
-  box-shadow: 0px 0px 5px 2px lightgreen;
+  border: 2px solid blue;
+  box-shadow: 0px 0px 5px 2px skyblue;
   border-radius: 2pc;
   padding: 5px;
   margin: 15px 5px auto;
-  background: green;
+  background: blue;
   color: white;
 }
 .navButton:hover{
-  border: 2px solid lightgreen;
+  border: 2px solid lightskyblue;
   box-shadow: 0px 0px 5px 2px;
   border-radius: 2pc;
   padding: 5px;
   margin: 15px 5px auto;
-  background: lightgreen;
+  background: lightskyblue;
   color: white;
   width: 100px;
 }
