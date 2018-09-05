@@ -8,13 +8,13 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Jay Zonday</h1>
+          <h1 className="App-title">Jay Zonday's <br/> Corner of the Web</h1>
+          <div id="logo-container">
+          <img src="https://cdn.dribbble.com/users/1334331/screenshots/4385778/untitled-1.gif" className="logo" alt="logo" />
+          </div>
         </header>
-        <p className="App-intro">
-          Welcome to Joe Moloughney's corner of the Web
-        </p>
-        <p id="mission">An eager and highly motivated full-stack web developer looking to
+
+        <p id="mission"><h1 id="statement">The Mission</h1> An eager and highly motivated full-stack web developer looking to
         apply my wide range of skills to create and build beautiful
         and intelligently designed programs that can help change
         and shape the way we think about tomorrow.</p>
