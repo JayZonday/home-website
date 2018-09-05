@@ -16,7 +16,7 @@ class App extends Component {
         </header>
 
         <p id="mission">
-        <h1 id="statement">The Mission</h1>
+        <h2 id="statement">The Mission</h2>
         An eager and highly motivated
         full-stack web developer looking to
         apply my wide range of skills to create and build beautiful
