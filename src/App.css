@@ -3,8 +3,9 @@
 }
 
 .App-header {
-  background-image: url('connectwork.png');
-  height: 325px;
+  background-image: url('Bricks.jpeg');
+  background-size: cover;
+  height: 335px;
   padding: 20px;
   color: white;
 }
@@ -27,7 +28,7 @@
 
 #logo-container{
   background: blue;
-  border: 2px solid skyblue;
+  border: 2px solid white;
   border-radius: 2pc;
   width: 275px;
   height: 140px;
@@ -51,11 +52,11 @@
 }
 
 .navBar{
-  border: 2px solid black;
-  border-radius: 2pc;
+  border: 2px solid white;
+  border-radius: 1pc;
   height: auto;
-  width: 400px;
-  background-image: url('connectwork.png');
+  width: 300px;
+  background-color: rgba(0,0,0,0.8);
   margin: 20px auto;
   padding: 10px;
 }
