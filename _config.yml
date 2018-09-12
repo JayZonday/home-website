@@ -1,5 +1,2 @@
 future: true
 time: TIMEZONE
-TimeZone:  america/new_york:
-    olson:  America/New_York
-    text:   (GMT-05:00) Eastern Time (US & Canada)
