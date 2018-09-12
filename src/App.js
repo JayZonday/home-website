@@ -11,7 +11,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Jay Zonday's <br/> Corner of the Web</h1>
           <div id="logo-container">
-          <img src="https://cdn.dribbble.com/users/1334331/screenshots/4385778/untitled-1.gif" className="logo" alt="logo" />
+          <img src="https://cdn.dribbble.com/users/101577/screenshots/4875999/true_astronaut_dribbble-bg.gif" className="logo" alt="logo" />
           </div>
         </header>
 
