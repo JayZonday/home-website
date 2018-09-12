@@ -1,2 +1,4 @@
 future: true
 time: TIMEZONE
+
+theme: jekyll-theme-slate
