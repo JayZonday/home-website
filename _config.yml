@@ -1,1 +1,2 @@
-theme: jekyll-theme-time-machine
+future: true
+time: TIMEZONE
