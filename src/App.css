@@ -96,10 +96,10 @@ li{
 
 #interests{
   border: 2px solid white;
-  height: 140px;
-  width: 375px;
+  height: 215px;
+  width: 350px;
   padding: 10px;
-  margin: 25px auto;
+  margin: -50px auto;
   box-shadow: 0px 0px 20px 5px;
   border-radius: 1pc;
   overflow: scroll;
@@ -118,10 +118,10 @@ li{
 }
 #experiences{
   border: 2px solid white;
-  height: 140px;
-  width: 375px;
+  height: 215px;
+  width: 350px;
   padding: 10px;
-  margin: 25px auto;
+  margin: -50px auto;
   box-shadow: 0px 0px 20px 5px;
   border-radius: 1pc;
   overflow: scroll;

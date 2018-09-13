@@ -3,6 +3,7 @@ import { Route, Switch, Redirect, withRouter } from 'react-router-dom'
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar.js'
+import SocNavbar from './SocNavbar.js'
 import Info from './Info.js'
 import Interests from './Interests.js'
 
@@ -26,6 +27,7 @@ class App extends Component {
         and shape the way we think about tomorrow.
         </p>
         <Navbar/>
+        <SocNavbar/>
         <Info />
       </div>
     );
