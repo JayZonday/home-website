@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+import { Route, Switch, Redirect, withRouter } from 'react-router-dom'
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar.js'
 import Info from './Info.js'
+import Interests from './Interests.js'
 
 class App extends Component {
   render() {

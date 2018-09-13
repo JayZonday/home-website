@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-image: url('https://cdn.dribbble.com/users/823181/screenshots/4511085/scenery_illustration.gif');
+  background-image: url('scenery-header.gif');
   background-size: cover;
   height: 335px;
   padding: 20px;
@@ -85,7 +85,13 @@
 
 .about{
   display: inline-flex;
-  padding: 20px;
+  padding: 0px;
+}
+
+li{
+  text-align: left;
+  font-size: 28px;
+  color: white
 }
 
 #interests{
